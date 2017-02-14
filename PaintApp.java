@@ -1,3 +1,5 @@
+//This is a plain text version of the project.
+
 package lessons;
 
 import java.awt.event.*;
